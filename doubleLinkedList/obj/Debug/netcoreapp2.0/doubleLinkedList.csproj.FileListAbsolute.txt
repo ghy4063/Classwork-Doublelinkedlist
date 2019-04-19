@@ -1,0 +1,11 @@
+C:\Users\garyin\source\repos\doubleLinkedList\doubleLinkedList\obj\Debug\netcoreapp2.0\doubleLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\garyin\source\repos\doubleLinkedList\doubleLinkedList\obj\Debug\netcoreapp2.0\doubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\garyin\source\repos\doubleLinkedList\doubleLinkedList\obj\Debug\netcoreapp2.0\doubleLinkedList.AssemblyInfoInputs.cache
+C:\Users\garyin\source\repos\doubleLinkedList\doubleLinkedList\obj\Debug\netcoreapp2.0\doubleLinkedList.AssemblyInfo.cs
+C:\Users\garyin\source\repos\doubleLinkedList\doubleLinkedList\bin\Debug\netcoreapp2.0\doubleLinkedList.deps.json
+C:\Users\garyin\source\repos\doubleLinkedList\doubleLinkedList\bin\Debug\netcoreapp2.0\doubleLinkedList.runtimeconfig.json
+C:\Users\garyin\source\repos\doubleLinkedList\doubleLinkedList\bin\Debug\netcoreapp2.0\doubleLinkedList.runtimeconfig.dev.json
+C:\Users\garyin\source\repos\doubleLinkedList\doubleLinkedList\bin\Debug\netcoreapp2.0\doubleLinkedList.dll
+C:\Users\garyin\source\repos\doubleLinkedList\doubleLinkedList\bin\Debug\netcoreapp2.0\doubleLinkedList.pdb
+C:\Users\garyin\source\repos\doubleLinkedList\doubleLinkedList\obj\Debug\netcoreapp2.0\doubleLinkedList.dll
+C:\Users\garyin\source\repos\doubleLinkedList\doubleLinkedList\obj\Debug\netcoreapp2.0\doubleLinkedList.pdb
